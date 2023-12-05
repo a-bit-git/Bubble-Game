@@ -3,3 +3,5 @@
 ## Usage
 Open the HTML file in a web browser to access and play the JavaScript-based Game for improving reflexive action. 
 #### Click on the Link : https://bubble-game.a-bit-git.repl.co/
+## Output in Browser
+![Screenshot (203)](https://github.com/a-bit-git/Bubble-Game/assets/138126472/e91fc85a-bb37-4487-abe1-699e5851df86)
